@@ -8,4 +8,4 @@ O artigo pode ser lido através do link abaixo.
 
 A origem do arquivo "flexbox-challenge-4.pdf" é de repositório do Kevin Powell e você pode acessar no link a seguir.
 
-[Link do Repositório](https://github.com/kevin-powell/responsive-made-easy)
+[Link do Repositório do Kevin Powell](https://github.com/kevin-powell/responsive-made-easy)
