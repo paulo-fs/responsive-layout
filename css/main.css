@@ -71,8 +71,14 @@ img{
 	background-color: var(--white);
 }
 
+.wrapper{
+	width: 100vw;
+}
+
 header{
-	padding-inline: min(.1rem + 22vw, 5rem + 30vw);
+	max-width: 1128px;
+	margin: 0 auto;
+	padding-inline: min(.1rem + 22vw, 9rem);
 	height: min(16rem + 10vw, 60rem);
 	background-color: var(--light);
 	text-align: center;
@@ -89,15 +95,17 @@ header p {
 }
 
 header h1 {
-	font-size: max(1.8rem, .4rem + 4vw);
+	font-size: max(1.8rem, .4rem + 3vw);
 }
 
 .container{
+	max-width: 1128px;
+	margin: 0 auto;
 	padding: min(1rem + 8vw, 6rem) min(1rem + 10vw, 8rem);
 }
 
-.container > .wrapper h2 {
-	font-size: max(1.4rem, .5rem + 2vw);
+.container  h2 {
+	font-size: max(1.4rem, .5rem + 1vw);
 	margin-bottom: min(.5rem + 3vw, 3rem);
 }
 
@@ -105,15 +113,19 @@ header h1 {
 	text-align: center;
 }
 
-.container > .wrapper p {
-	font-size: max(1.1rem, .2rem + 1vw);
+.container p {
+	font-size: max(1.1rem, .2rem + .5vw);
 	margin-bottom: min(.8rem + .6vw, 1rem);
+}
+
+.container img{
+	width: 100%;
 }
 
 @media screen and (min-width: 768px){
 	.container .split {
 		margin: 0 auto;
-		columns: min(10rem + 10vw, 40rem);
+		columns: min(12rem + 8vw, 40rem);
 		column-gap: min(.5rem + 3vw, 4rem);
 	}
 }
