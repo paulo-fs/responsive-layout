@@ -1,4 +1,8 @@
-# Responsividade
+p# Responsividade
+
+<p align="center">
+   <img width="466" src="assets/responsividade.gif" >
+</p>
 
 Este pequenos projeto tem a finalidade de demonstrar a aplicação de alguns conceitos de um artigo que escrevi para o LabLuby. O artigo trata da aplicação de responsividade em websites e webapps.
 
