@@ -16,9 +16,9 @@ git fetch origin
 ```
 
 Mude para a branch em branco
-´´´
+```
 git checkout blank
-´´´
+```
 
 
 O artigo pode ser lido através do link abaixo.
