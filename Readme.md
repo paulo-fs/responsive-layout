@@ -8,17 +8,12 @@ Deixei o HTML pronto para você baixar os arquivos e já começar a estilizar.
 
 Baixe o projeto na sua máquina
 ```
-git clone https://github.com/paulo-fs/labluby-responsive-layout.git
+git clone -b blank https://github.com/paulo-fs/labluby-responsive-layout.git
 ```
 
 Entre no diretório do projeto
 ```
 cd labluby-responsive-layout
-```
-
-Troque para a branch do projeto em branco
-```
-git checkout blank
 ```
 
 
