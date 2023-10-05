@@ -10,7 +10,7 @@ Este pequenos projeto tem a finalidade de demonstrar a aplicação de alguns con
 
 O artigo pode ser lido através do link abaixo.
 
-[Link do artigo][]
+[Responsividade.pdf](https://github.com/paulo-fs/labluby-responsive-layout/files/12818942/Responsividade.pdf)
 
 
 ## Referência
